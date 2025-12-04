@@ -10,3 +10,13 @@
 *.iml
 /build
 /tmp
+.env.example
+.claude/
+.next/
+/out
+/static/
+/public/
+/.turbo/
+.cache/
+.svelte-kit/
+.vite/
